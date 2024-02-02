@@ -54,6 +54,3 @@ bg score: 0.007086, face score: 0.992914.
 $ python demo.py --img ./samples/bg.jpg 
 bg score: 0.999996, face score: 0.000004.
 ```
-
-# Acknowledgement
-Thank [Yuantao Feng](https://github.com/fengyuentau) to train the model. 
